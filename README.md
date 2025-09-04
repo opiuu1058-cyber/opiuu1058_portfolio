@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About me
+-한신대 AISW 
 <!--
 **opiuu1058-cyber/opiuu1058-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
