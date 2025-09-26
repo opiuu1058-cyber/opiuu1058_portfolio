@@ -15,7 +15,7 @@
 <br>
 
 ## 🛠 기술 스택
-*   **언어:** Python, c 그 외 학습중
+*   **언어:** <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25"/> 그 외 학습중
 *   **도구:** VS Code 그 외 여러가지
 
 <br>
