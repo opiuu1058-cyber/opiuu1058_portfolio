@@ -46,4 +46,4 @@
 </p>
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/aebonlee/aebonlee/blob/output/github-contribution-grid-snake.svg)
+![contribution snake](dist/github-contribution-grid-snake.svg)
