@@ -14,8 +14,17 @@
 
 <br>
 
+## 📊 통계
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=opiuu1058-cyber&show_icons=true&theme=radical"/>
+  <br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/i?url=https%3A%2F%2Fgithub.com%2Fopiuu1058-cyber&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</div>
+
+<br>
+
 ## 🛠 기술 스택
-*   **언어:** <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25"/> 그 외 학습중
+*   **언어:** <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/> 그 외 학습중
 *   **도구:** VS Code 그 외 여러가지
 
 <br>
