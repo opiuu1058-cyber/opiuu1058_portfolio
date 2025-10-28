@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=HELLO%20WORLD&fontSize=40&fontColor=fff&animation=twinkling" width="100%" height="auto"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:333,100:999&height=150&section=header&text=HELLO%20WORLD&fontSize=40&fontColor=fff&animation=twinkling" width="100%" height="auto"/>
 
 <div align="center">
   
