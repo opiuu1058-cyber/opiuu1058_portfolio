@@ -45,8 +45,10 @@
 <br>
 
 ## 📫 연락처
-- **Email:** opiuu1058@hs.ac.kr
-- **GitHub:** [opiuu1058-cyber](https://github.com/opiuu1058-cyber)
+<a href="mailto:opiuu1058@hs.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/opiuu1058-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/ebebe105/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
 
 <br>
 
