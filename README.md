@@ -10,3 +10,5 @@ https://aebonlee.github.io/Portfolio02/
 <img src="pt003.png" />
 <img src="pt004.png" />
 <img src="pt005.png" />
+
+Small update for GitHub activity.
