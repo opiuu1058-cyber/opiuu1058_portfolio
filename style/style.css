@@ -340,6 +340,9 @@ ul {
 .home .home-info {
   flex: 0 0 60%;
   max-width: 60%;
+  mix-blend-mode: difference;
+  color: white;
+  z-index: 2;
 }
 
 h3.hello {
