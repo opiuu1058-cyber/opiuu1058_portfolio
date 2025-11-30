@@ -57,6 +57,7 @@ ul {
 }
 
 .section {
+  background: var(--bg-black-900);
   min-height: 100vh;
   display: block;
   padding: 0 30px;
@@ -81,6 +82,10 @@ ul {
   z-index: 4;
   opacity: 1;
   animation: slideSection 1s ease;
+}
+
+section.home {
+  background: transparent;
 }
 
 @keyframes slideSection {
