@@ -59,11 +59,11 @@ function showSection(element) {
   document.querySelector("#" + target).classList.add("active")
 
   if (target === "home") {
-    // Force the triangles animation to resize and re-render
-    // Check if the function exists before calling to be safe
-    if (typeof onWindowResize === 'function') {
-      onWindowResize();
-    }
+    setTimeout(function() {
+      if (typeof onWindowResize === 'function') {
+        onWindowResize();
+      }
+    }, 50); // Delay to allow the section to become visible
   }
 }
 
