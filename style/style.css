@@ -334,9 +334,9 @@ section.home {
   font-size: 1.6rem;
 }
 
-/* Home */
 section.home {
   background: transparent;
+  pointer-events: none;
 }
 .home {
   min-height: 100vh;
@@ -350,6 +350,7 @@ section.home {
   mix-blend-mode: difference;
   color: white;
   z-index: 2;
+  pointer-events: auto;
 }
 
 h3.hello {
