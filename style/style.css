@@ -57,6 +57,7 @@ ul {
 }
 
 .section {
+  background: var(--bg-black-900);
   min-height: 100vh;
   display: block;
   padding: 0 30px;
@@ -73,12 +74,6 @@ ul {
   transition: all 0.3s ease;
 }
 
-.section.about,
-.section.portfolio,
-.section.contact {
-  background: var(--bg-black-900);
-}
-
 .section.back-section {
   z-index: 3;
 }
@@ -87,6 +82,10 @@ ul {
   z-index: 4;
   opacity: 1;
   animation: slideSection 1s ease;
+}
+
+section.home {
+  background: transparent;
 }
 
 @keyframes slideSection {
