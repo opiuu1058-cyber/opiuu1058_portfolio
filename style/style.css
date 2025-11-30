@@ -57,7 +57,6 @@ ul {
 }
 
 .section {
-  background: var(--bg-black-900);
   min-height: 100vh;
   display: block;
   padding: 0 30px;
@@ -331,6 +330,9 @@ ul {
 }
 
 /* Home */
+section.home {
+  background: transparent;
+}
 .home {
   min-height: 100vh;
   display: flex;
@@ -1166,12 +1168,11 @@ h3.my-profession {
   font-display: swap
 }
 
-/* Triangles Background */
-#triangles-background {
+#container {
     position: fixed;
     top: 0;
     left: 0;
     width: 100vw;
     height: 100vh;
-    z-index: -1; /* Ensure it stays in the background */
+    z-index: -1;
 }
