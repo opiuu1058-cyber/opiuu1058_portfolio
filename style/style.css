@@ -336,12 +336,6 @@ section.home {
 
 section.home {
   background: transparent;
-  pointer-events: none;
-}
-.home {
-  min-height: 100vh;
-  display: flex;
-  color: var(--text-black-900);
 }
 
 .home .home-info {
@@ -350,7 +344,6 @@ section.home {
   mix-blend-mode: difference;
   color: white;
   z-index: 2;
-  pointer-events: auto;
 }
 
 h3.hello {
@@ -1175,10 +1168,10 @@ h3.my-profession {
 }
 
 #container {
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
-    width: 100vw;
-    height: 100vh;
-    z-index: 1;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
 }
