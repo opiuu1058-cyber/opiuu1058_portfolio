@@ -788,32 +788,11 @@ h3.my-profession {
 }
 
 @media (max-width: 1199px) {
-  .section .container {
-    padding-top: 70px;
+  html {
+    font-size: 9px;
   }
-  .aside {
-    left: -270px;
-  }
-  .aside.open {
+  .portfolio__popup {
     left:0;
-  }
-  .aside .nav-toggler {
-    display: flex;  
-    top: 20px;
-    left: 20px;
-  }
-  .aside .nav-toggler.open {
-    left: 300px;
-  }
-  .section {
-    left: 0;
-  }
-  /* .section.open {
-    left: 270px;
-  } */
-  .about .about-content .personal-info .info-item p span {
-    display: block;
-    margin-left: 0;
   }
 }
 
@@ -1185,4 +1164,14 @@ h3.my-profession {
   url(../font/TmoneyRoundWind-ExtraBoldA1.woff) format("woff"), 
   url(../font/TmoneyRoundWind-ExtraBoldA1.ttf) format("fft"); 
   font-display: swap
+}
+
+/* Triangles Background */
+#triangles-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1; /* Ensure it stays in the background */
 }
