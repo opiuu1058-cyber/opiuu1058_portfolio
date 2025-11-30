@@ -57,6 +57,14 @@ function showSection(element) {
   }
   const target = element.getAttribute("href").split("#")[1];
   document.querySelector("#" + target).classList.add("active")
+
+  if (target === "home") {
+    // Force the triangles animation to resize and re-render
+    // Check if the function exists before calling to be safe
+    if (typeof onWindowResize === 'function') {
+      onWindowResize();
+    }
+  }
 }
 
 function updateNav(element) {
